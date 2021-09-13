@@ -1,11 +1,11 @@
 var dataPath = 'static/data/samples.json'
 var fontStyle = {
-    family: 'Space Mono, monospace',
+    family: 'Crimson',
     size: 16,
     color: '#0B265B',   
 }
 var fontTitle = {
-    family: 'Space Mono, monospace',
+    family: 'Crimson',
     color: '#0B265B'
 }
 function init() {
@@ -158,7 +158,7 @@ function buildCharts(sample) {
         mode: "gauge+number",
         gauge: {
           axis: { range: [null, 10] } ,
-          bar: { color: "#000000" },
+          bar: { color: "black" },
           steps: [
             { range: [0, 2], color: "red" },
             { range: [2, 4], color: "orange" },

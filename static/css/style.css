@@ -1,40 +1,40 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=family=Crimson+Pro:wght@400;700&display=swap');
 h1, h2, h3 {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Crimson';
 }
 .jumbotron{
-  background: url(../images/background.jpg) center no-repeat;
+  background: url(../images/bacteria.png) center no-repeat;
   background-size: 100%;
   color: whitesmoke;
 }
 .jumbotron>h1{
   text-shadow: 0px 0px 10px  #071a40;
-  color: #44C4F4;
+  color: #e5edf0;
 
 }
 .jumbotron p {
   letter-spacing: 0.03em;
   font-weight: 400;
-  background: #2661D2;
+  background: #0e2d68;
 }
 .well {
-  background-color: #0B265B;
+  background-color: #0e2d68;
   color:whitesmoke;
   
 }
 select{
-    color: #0b265b;
+    color: #0e2d68;
 }
 .well>select{
   width: 90%;
   margin:1em auto;
 }
 .panel-primary{
-  border-color: #0B265B;
+  border-color: #0e2d68;
 }
 .panel-primary>.panel-heading{
-  background-color: #0B265B;
-  border-color: #0B265B;
+  background-color: #0e2d68;
+  border-color: #0e2d68;
 }
 footer{
   background: #174199;
