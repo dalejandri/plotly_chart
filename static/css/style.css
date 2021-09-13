@@ -15,26 +15,26 @@ h1, h2, h3 {
 .jumbotron p {
   letter-spacing: 0.03em;
   font-weight: 400;
-  background: #0e2d68;
+  background: #174199;
 }
 .well {
-  background-color: #0e2d68;
+  background-color: #174199;
   color:whitesmoke;
   
 }
 select{
-    color: #0e2d68;
+    color: #174199;
 }
 .well>select{
   width: 90%;
   margin:1em auto;
 }
 .panel-primary{
-  border-color: #0e2d68;
+  border-color: #174199;
 }
 .panel-primary>.panel-heading{
-  background-color: #0e2d68;
-  border-color: #0e2d68;
+  background-color: #174199;
+  border-color: #174199;
 }
 footer{
   background: #174199;
