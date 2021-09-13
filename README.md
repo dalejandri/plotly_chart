@@ -11,5 +11,8 @@ This new assignment consists of four technical analysis deliverables. You will s
 ![](static/images/Deliverable1.PNG)
 
 - Deliverable 2: Create a Bubble Chart
+
+![](static/images/Deliverable2.PNG)
+
 - Deliverable 3: Create a Gauge Chart
 - Deliverable 4: Customize the Dashboard
